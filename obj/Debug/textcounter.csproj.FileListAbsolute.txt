@@ -1,0 +1,7 @@
+C:\Users\pjgon\Desktop\textcounter\bin\Debug\textcounter.exe.config
+C:\Users\pjgon\Desktop\textcounter\bin\Debug\textcounter.exe
+C:\Users\pjgon\Desktop\textcounter\bin\Debug\textcounter.pdb
+C:\Users\pjgon\Desktop\textcounter\obj\Debug\textcounter.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\textcounter\obj\Debug\textcounter.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\textcounter\obj\Debug\textcounter.exe
+C:\Users\pjgon\Desktop\textcounter\obj\Debug\textcounter.pdb
